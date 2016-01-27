@@ -1,0 +1,3 @@
+useDynLib(pofadinr)
+export(dist.snp, consensus.dna, consensus.org)
+importFrom(ape, dist.dna, read.dna)

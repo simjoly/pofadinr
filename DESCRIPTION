@@ -1,0 +1,18 @@
+Package: pofadinr
+Version: 1.0
+Date: 2016-01-27
+Title: Distance methods from SNP data
+Authors@R: c(person("Simon", "Simon", role = c("aut", "cre", "cph"), email = "joly.simon@gmail.com"),
+	person("Emmanuel", "Paradis", role = c("aut", "cph")))
+Depends: R (>= 3.0.0)
+Imports: ape
+ZipData: no
+Description: This package contains functions to estimate genetic distances from nucleotide data.
+License: GPL (>= 2)
+URL: http://www.plantevolution.org/en/softwares.html
+NeedsCompilation: yes
+Packaged: 2016-01-26 09:20:40 UTC; Joly
+Author: Simon Joly [aut, cre, cph],
+Maintainer: Simon Joly <joly.simon@gmail.com>
+Repository: github
+Date/Publication: 2016-01-26
