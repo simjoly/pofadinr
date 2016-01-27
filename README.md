@@ -9,14 +9,12 @@ This is the repository for the pofadinr R package
 Source and binaries 
 -------------------
 
+Check the [latest release](./releases/).
+
 Installation
 ------------
 
-In R, type the following:
-
-$> install.packages("pofadinr", repos = "http://www.omegahat.org/R", type="source")
-
-Alternatively, you can download the binaries for your platform in install them in R.
+Download either the source files or the binaries for the latest release and install them in R.
 
 Notes
 -----
