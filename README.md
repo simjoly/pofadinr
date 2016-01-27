@@ -9,12 +9,12 @@ This is the repository for the pofadinr R package
 Source and binaries 
 -------------------
 
-Check the [latest release](./releases/).
+Check the [latest release](https://github.com/simjoly/pofadinr/releases).
 
 Installation
 ------------
 
-Download either the source files or the binaries for the [latest release](./releases/) and install them in R.
+Download either the source files or the binaries for the [latest release](https://github.com/simjoly/pofadinr/releases) and install them in R.
 
 Notes
 -----
