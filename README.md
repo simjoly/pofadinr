@@ -26,4 +26,4 @@ This implementation is however much faster than the original program, which is p
 References
 ----------
 
-Joly, S., Bryant, D. and Lockhart, P.J. 2015. Flexible methods for estimating genetic distances from nucleotide data. *Methods in Ecology and Evolution*, 6, 938–-948.
+Joly, S., Bryant, D. and Lockhart, P.J. 2015. Flexible methods for estimating genetic distances from nucleotide data. *Methods in Ecology and Evolution*, 6, 938–948.
