@@ -1,12 +1,8 @@
 # pofadinr
 
-## Distance methods from SNP data
+**Distance methods from SNP data**
 
 This is the repository for the pofadinr R package
-
-## Source and binaries 
-
-Check the [latest release](https://github.com/simjoly/pofadinr/releases).
 
 ## Installation
 
@@ -23,7 +19,12 @@ $> install.packages("devtools")
 And then, intall the pofadinr package from the github repository.
 
 $> library(devtools)
+
 $> install_github("simjoly/pofadinr")
+
+### Source and binaries 
+
+Check the [latest release](https://github.com/simjoly/pofadinr/releases).
 
 ## Notes
 
