@@ -4,6 +4,10 @@
 
 This is the repository for the pofadinr R package
 
+## About
+
+The **pofadinr** R package implements the distances **genpofad** and **matchstates** based on single nucleotide polymorphisms and described by Joly et al. (2015). They were developped to take into account intra-individual polymorphisms when estimating genetic distances between individuals. **genpofad**, in particular, provides an accurate measure of genetic distance and is useful to deal with hybrids and individuals of different ploidy levels.
+
 ## Installation
 
 ### Manual installation
@@ -28,9 +32,9 @@ Check the [latest release](https://github.com/simjoly/pofadinr/releases).
 
 ## Notes
 
-This package was written to make available in R some SNP based distance methods (Joly et al. 2015). However, more are available from the POFAD software.
+This package was written to make available in R some SNP based distance methods (Joly et al. 2015). However, more methods are available in the [POFAD](https:github.com/simjoly/pofad) software.
 
-This implementation is however much faster than the original program, which is possible by using the bit level operations for DNA sequences developped by Emmanuel Paradis.
+Note that this implementation is much faster than that of the POFAD program. This is because pofadinr uses bit-wise operations for comparing nucleotides, following the [bit-level coding scheme for nucleotides](http://ape-package.ird.fr/misc/BitLevelCodingScheme.html) developped by Emmanuel Paradis.
 
 ## References
 
