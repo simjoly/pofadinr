@@ -6,7 +6,7 @@ This is the repository for the pofadinr R package
 
 ## About
 
-The **pofadinr** R package implements the distances **genpofad** and **matchstates** based on single nucleotide polymorphisms (oly et al. 2015). They were developped to take into account intra-individual polymorphisms when estimating genetic distances between individuals. **genpofad**, in particular, provides an accurate measure of genetic distance and is useful to deal with hybrids and individuals of different ploidy levels.
+The **pofadinr** R package implements the distances **genpofad** and **matchstates** based on single nucleotide polymorphisms (Joly et al. 2015). They were developped to take into account intra-individual polymorphisms when estimating genetic distances between individuals. **genpofad**, in particular, provides an accurate measure of genetic distance and is useful to deal with hybrids and individuals of different ploidy levels.
 
 ## Installation
 
